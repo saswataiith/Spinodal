@@ -1,0 +1,14 @@
+nx 512
+ny 512
+dx 1.0
+dy 1.0
+dt 1.0
+numsteps 10000
+A 1.0 
+composition 0.5
+kappa_c 1.0 
+mobility 1.0
+noise_level 0.005
+initflag 0
+initcount 0
+fftw_flag 1
